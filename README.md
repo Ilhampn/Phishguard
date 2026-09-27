@@ -1,31 +1,31 @@
-# Sistem Pendeteksi Pesan Phishing
+# PhishGuard
 
 ## Deskripsi
 
-Sistem Pendeteksi Pesan Phishing merupakan sistem yang dirancang untuk membantu mengidentifikasi pesan yang terindikasi mengandung unsur phishing.
+PhishGuard merupakan sistem yang dirancang untuk membantu mendeteksi pesan yang terindikasi sebagai phishing dengan memanfaatkan teknologi Machine Learning dan klasifikasi teks.
 
 Sistem ini dikembangkan sebagai bagian dari proyek mata kuliah Rekayasa Perangkat Lunak (RPL).
 
+## Tujuan Sistem
+
+PhishGuard bertujuan untuk membantu pengguna dalam mengidentifikasi pesan yang memiliki indikasi phishing berdasarkan karakteristik dan pola tertentu pada pesan.
+
 ## Dokumentasi
 
-Dokumentasi yang tersedia dalam repository ini meliputi:
+Dokumentasi perancangan sistem yang tersedia dalam repository ini meliputi:
 
 - Software Requirements Specification (SRS)
 - Use Case Diagram
 
-## Tujuan Sistem
+## Use Case Diagram
 
-Sistem ini bertujuan untuk membantu pengguna dalam mengidentifikasi pesan yang memiliki indikasi phishing berdasarkan karakteristik atau pola tertentu.
+![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.png)
 
-## Diagram Sistem
+## Software Requirements Specification
 
-### Use Case Diagram
+Dokumen SRS dapat dilihat melalui tautan berikut:
 
-![Use Case Diagram](Use Case Diagram Phishguard.png)
-
-## Dokumen
-
-- [Software Requirements Specification (SRS)](SRS - Phishguard.pdf)
+[📄 SRS - PhishGuard](SRS%20-%20Phishguard.pdf)
 
 ## Teknologi
 
@@ -33,6 +33,6 @@ Sistem ini bertujuan untuk membantu pengguna dalam mengidentifikasi pesan yang m
 - Natural Language Processing (NLP)
 - Web Application
 
-## Status
+## Status Proyek
 
 **Tahap:** Perancangan dan dokumentasi sistem
