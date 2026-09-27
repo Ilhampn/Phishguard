@@ -19,7 +19,7 @@ Dokumentasi perancangan sistem yang tersedia dalam repository ini meliputi:
 
 ## Use Case Diagram
 
-![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.png)
+![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.jpg)
 
 ## Software Requirements Specification
 
