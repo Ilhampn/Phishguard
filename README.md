@@ -16,16 +16,25 @@ Dokumentasi perancangan sistem yang tersedia dalam repository ini meliputi:
 
 - Software Requirements Specification (SRS)
 - Use Case Diagram
-
-## Use Case Diagram
-
-![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.jpg)
+- Activity Diagram
+- Sequence Diagram
 
 ## Software Requirements Specification
 
 Dokumen SRS dapat dilihat melalui tautan berikut:
 
 [📄 SRS - PhishGuard](SRS%20-%20Phishguard.pdf)
+
+
+## Use Case Diagram
+
+![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.jpg)
+
+## Activity Diagram
+
+![Activity Diagram] (Activity%20Diagram%20Regiter.jpg)
+
+
 
 ## Teknologi
 
