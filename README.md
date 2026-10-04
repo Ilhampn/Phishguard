@@ -43,6 +43,19 @@ Dokumen SRS dapat dilihat melalui tautan berikut:
 #### Activity Diagram Logout
 
 ![Activity Diagram Logout](Activity%20Diagram%20Logout.jpg)
+
+#### Activity Diagram Input Pesan dan Melakukan Deteksi
+
+![Activity Diagram Input Pesan dan Melakukan Deteksi](Activity%20Diagram%20Input%20Pesan%20dan%20Melakukan%20Deteksi.jpg)
+
+#### Activity Diagram Melihat Riwayat dan Hapus Riwayat
+
+![Activity Diagram Melihat Riwayat dan Hapus Riwayat](Activity%20Diagram%20Melihat%20Riwayat%20dan%20Hapus%20Riwayat.jpg)
+
+#### Activity Diagram Melihat Data Deteksi
+
+![Activity Diagram Melihat Data Deteksi](Activity%20Diagram%20Melihat%20Data%20Deteksi.jpg)
+
 ## Teknologi
 
 - Machine Learning
