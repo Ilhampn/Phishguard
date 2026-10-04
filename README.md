@@ -30,12 +30,19 @@ Dokumen SRS dapat dilihat melalui tautan berikut:
 
 ![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.jpg)
 
-## Activity Diagram
+### Activity Diagram
 
-![Activity Diagram] (Activity%20Diagram%20Regiter.jpg)
+#### Activity Diagram Register
 
+![Activity Diagram Login](Activity%20Diagram%20Regiter.jpg)
 
+#### Activity Diagram Login
 
+![Activity Diagram Login](Activity%20Diagram%20Login.jpg)
+
+#### Activity Diagram Logout
+
+![Activity Diagram Logout](Activity%20Diagram%20Logout.jpg)
 ## Teknologi
 
 - Machine Learning
