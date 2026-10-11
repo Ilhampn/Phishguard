@@ -20,17 +20,18 @@ Dokumentasi perancangan sistem yang tersedia dalam repository ini meliputi:
 - Sequence Diagram
 
 ## Software Requirements Specification
-
-Dokumen SRS dapat dilihat melalui tautan berikut:
+Dokumen yang berisi kebutuhan fungsional dan nonfungsional sistem PhishGuard. Dokumen SRS dapat dilihat melalui tautan berikut:
 
 [📄 SRS - PhishGuard](SRS%20-%20Phishguard.pdf)
 
 
 ## Use Case Diagram
+Diagram yang menggambarkan interaksi antara aktor User dan Admin dengan sistem PhishGuard.
 
 ![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.jpg)
 
 ### Activity Diagram
+Diagram yang menggambarkan alur aktivitas atau proses dalam sistem PhishGuard. Berikut dari Activity Diagramnya : 
 
 #### Activity Diagram Register
 
@@ -55,6 +56,21 @@ Dokumen SRS dapat dilihat melalui tautan berikut:
 #### Activity Diagram Melihat Data Deteksi
 
 ![Activity Diagram Melihat Data Deteksi](Activity%20Diagram%20Melihat%20Data%20Deteksi.jpg)
+
+### Sequence Diagram
+Diagram yang menggambarkan urutan interaksi dan pertukaran pesan antara aktor, antarmuka, sistem, dan database dalam menjalankan suatu proses. Berikut dari Sequence Diagramnya :
+
+![Sequence Diagram](./Sequence%20Diagram%20Register.jpg)
+![Sequence Diagram](./Sequence%20Diagram%20Login.jpg)
+
+### State Machine Diagram
+Diagram yang menggambarkan perubahan status (state) suatu objek atau proses selama sistem PhishGuard berjalan. Berikut dari State Machine Diagramnya :
+
+![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Pesan.jpg)
+![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Sesi.jpg)
+![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Data%20Dataset.jpg)
+![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Versi%20Model%20AI.jpg)
+![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Akun%20Pengguna.jpg)
 
 ## Teknologi
 
