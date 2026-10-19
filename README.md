@@ -16,8 +16,10 @@ Dokumentasi perancangan sistem yang tersedia dalam repository ini meliputi:
 
 - Software Requirements Specification (SRS)
 - Use Case Diagram
+- Use Case Description
 - Activity Diagram
 - Sequence Diagram
+- State Machine Diagram
 
 ## Software Requirements Specification
 Dokumen yang berisi kebutuhan fungsional dan nonfungsional sistem PhishGuard. Dokumen SRS dapat dilihat melalui tautan berikut:
@@ -30,10 +32,46 @@ Diagram yang menggambarkan interaksi antara aktor User dan Admin dengan sistem P
 
 ![Use Case Diagram](Use%20Case%20Diagram%20Phishguard.jpg)
 
+## Use Case Description
+Use Case Description menjelaskan secara terperinci setiap use case pada sistem PhishGuard. Termasuk aktor yang terlibat, tujuan, prasyarat, alur utama, dan alur alternatif.
+
+#### Use Case Description Registrasi
+![Use Case Description](./Use%20Case%20Description%20Registrasi.jpg)
+
+#### Use Case Description Login
+![Use Case Description](./Use%20Case%20Description%20Login.jpg)
+
+#### Use Case Description Input Pesan
+![Use Case Description](./Use%20Case%20Description%20Input%20Pesan.jpg)
+
+#### Use Case Description Melakukan Deteksi Pesan Phising
+![Use Case Description](./Use%20Case%20Description%20Melakukan%20Deteksi%20Pesan%20Phising.jpg)
+
+#### Use Case Description Melihat Hasil Deteksi
+![Use Case Description](./Use%20Case%20Description%20Melihat%20Hasil%20Deteksi.jpg)
+
+#### Use Case Description Melihat Riwayat Pemeriksaan
+![Use Case Description](./Use%20Case%20Description%20Melihat%20Riwayat%20Pemeriksaan.jpg)
+
+#### Use Case Description Mengelola Pengguna
+![Use Case Description](./Use%20Case%20Description%20Mengelola%20Pengguna.jpg)
+
+#### Use Case Description Mengelola Dataset
+![Use Case Description](./Use%20Case%20Description%20Mengelola%20Dataset.jpg)
+
+#### Use Case Description Melihat Data Deteksi
+![Use Case Description](./Use%20Case%20Description%20Melihat%20Data%20Deteksi.jpg)
+
+#### Use Case Description Melihat Statistik Deteksi
+![Use Case Description](./Use%20Case%20Description%20Melihat%20Statistik%20Deteksi.jpg)
+
+#### Use Case Description Logout
+![Use Case Description](./Use%20Case%20Description%20Logout.jpg)
+
 ### Activity Diagram
 Diagram yang menggambarkan alur aktivitas atau proses dalam sistem PhishGuard. Berikut dari Activity Diagramnya : 
 
-#### Activity Diagram Register
+#### Activity Diagram Registrasi
 
 ![Activity Diagram Login](Activity%20Diagram%20Regiter.jpg)
 
