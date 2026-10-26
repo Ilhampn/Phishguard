@@ -135,18 +135,18 @@ Diagram yang menggambarkan perubahan status (state) suatu objek atau proses sela
 ### Class Diagram
 Class Diagram menggambarkan struktur kelas dalam sistem PhishGuard, termasuk atribut, metode, dan hubungan antarkelas.
 
-[Lihat Class Diagram](./Class%20Diagram%20.jpg)
+![Class Diagram](./Class%20Diagram%20.jpg)
 
 ### Object Diagram
 Object Diagram menggambarkan contoh objek nyata dari kelas-kelas dalam sistem PhishGuard beserta nilai atribut dan hubungan antar objek pada suatu kondisi tertentu.
 
-[Lihat Object Diagram](./Object%20Diagram%20.jpg)
+![Object Diagram](./Object%20Diagram%20.jpg)
 
 ### Deployment Diagram
 Deployment Diagram menggambarkan arsitektur fisik sistem PhishGuard, termasuk perangkat pengguna, server aplikasi, komponen AI, dan database serta hubungan komunikasi di antaranya.
 
 
-[Lihat Deployment Diagram](./Deployment%20Diagram%20.jpg)
+![Deployment Diagram](./Deployment%20Diagram%20.jpg)
 
 ## Teknologi
 
