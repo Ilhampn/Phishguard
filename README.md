@@ -102,6 +102,17 @@ Diagram yang menggambarkan urutan interaksi dan pertukaran pesan antara aktor, a
 ![Sequence Diagram](./Sequence%20Diagram%20Register.jpg)
 #### Sequence Diagram Login
 ![Sequence Diagram](./Sequence%20Diagram%20Login.jpg)
+#### Sequence Diagram Input Pesan dan Deteksi Pesan
+![Sequence Diagram](./Sequence%20Diagram%20Input%20Pesan%20dan%20Deteksi%20Pesan.jpg)
+#### Sequence Diagram Melihat Riwayat dan Hapus Riwayat
+![Sequence Diagram](./Sequence%20Diagram%20Melihat%20Riwayat%20dan%20Hapus%20Riwayat.jpg)
+#### Sequence Diagram Melihat Data Deteksi
+![Sequence Diagram](./Sequence%20Diagram%20Melihat%20Data%20Deteksi.jpg)
+#### Sequence Diagram Mengelola Dataset
+![Sequence Diagram](./Sequence%20Diagram%20Mengelola%20Dataset.jpg)
+#### Sequence Diagram Melihat Statistik Deteksi.jpg
+![Sequence Diagram](./Sequence%20Diagram%20Melihat%20Statistik%20Deteksi.jpg)
+
 
 ### State Machine Diagram
 Diagram yang menggambarkan perubahan status (state) suatu objek atau proses selama sistem PhishGuard berjalan. Berikut dari State Machine Diagramnya :
