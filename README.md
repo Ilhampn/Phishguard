@@ -110,8 +110,12 @@ Diagram yang menggambarkan urutan interaksi dan pertukaran pesan antara aktor, a
 ![Sequence Diagram](./Sequence%20Diagram%20Melihat%20Data%20Deteksi.jpg)
 #### Sequence Diagram Mengelola Dataset
 ![Sequence Diagram](./Sequence%20Diagram%20Mengelola%20Dataset.jpg)
-#### Sequence Diagram Melihat Statistik Deteksi.jpg
+#### Sequence Diagram Melihat Statistik Deteksi
 ![Sequence Diagram](./Sequence%20Diagram%20Melihat%20Statistik%20Deteksi.jpg)
+#### Sequence Diagram Mengelola Pengguna
+![Sequence Diagram](./Sequence%20Diagram%20Mengelola%20Pengguna.jpg)
+#### Sequence Diagram Logout
+![Sequence Diagram](./Sequence%20Diagram%20Logout.jpg)
 
 
 ### State Machine Diagram
@@ -127,6 +131,22 @@ Diagram yang menggambarkan perubahan status (state) suatu objek atau proses sela
 ![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Versi%20Model%20AI.jpg)
 #### State Machine Diagram Objek Akun Pengguna
 ![State Machine Diagram](./State%20Machine%20Diagram%20Objek%20Akun%20Pengguna.jpg)
+
+### Class Diagram
+Class Diagram menggambarkan struktur kelas dalam sistem PhishGuard, termasuk atribut, metode, dan hubungan antarkelas.
+
+[Lihat Class Diagram](./Class%20Diagram%20.jpg)
+
+### Object Diagram
+Object Diagram menggambarkan contoh objek nyata dari kelas-kelas dalam sistem PhishGuard beserta nilai atribut dan hubungan antar objek pada suatu kondisi tertentu.
+
+[Lihat Object Diagram](./Object%20Diagram%20.jpg)
+
+### Deployment Diagram
+Deployment Diagram menggambarkan arsitektur fisik sistem PhishGuard, termasuk perangkat pengguna, server aplikasi, komponen AI, dan database serta hubungan komunikasi di antaranya.
+
+
+[Lihat Deployment Diagram](./Deployment%20Diagram%20.jpg)
 
 ## Teknologi
 
